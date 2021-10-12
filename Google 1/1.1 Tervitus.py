@@ -1,2 +1,2 @@
 # teksti väljestamine
-print("Tere, maailm!")
+print("2016. aastal valiti Eesti presidendiks Kersti Kaljulaid")
